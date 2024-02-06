@@ -1,0 +1,16 @@
+
+<html>
+<head>
+<title>index</title>
+</head>
+
+<body>
+<h1>Morgan Brown Bio</h1>
+<p>[Insert bio information here]</p>
+<br>
+<a href="URL">Introduction Link</a>
+<br>
+<img src="jpg">
+
+</body>
+</html>
